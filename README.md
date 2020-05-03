@@ -13,7 +13,8 @@ Assumptions of the model:
 - no trip wind
 - no air-conditioning/anti-ice
 - landing weight 121254.24 lbs (55,000 kg)
-All of these assumptions may can be compensated for with additional calculations
+
+  All of these assumptions may can be compensated for with additional calculations
 
 Model limitations:
 - maximum range 3100nm ground distance, flights beyond this distance currently NOT supported
