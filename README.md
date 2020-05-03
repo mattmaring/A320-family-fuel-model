@@ -17,7 +17,7 @@ Assumptions of the model:
   All of these assumptions may can be compensated for with additional calculations
 
 Model limitations:
-- maximum range 3100nm ground distance, flights beyond this distance currently NOT supported
+- maximum range 3100nm ground distance, flights beyond this distance are currently NOT supported
 - typical cruise range FL290-FL390 (29,000 to 39,000 ft)
 - outside of this range, go-around data is used to supplement 0-500nm for FL100-FL270 (10,000 ft to 27,000 ft)
 - for flights with cruise below FL100 (10,000ft), limited data is currently avaiable
