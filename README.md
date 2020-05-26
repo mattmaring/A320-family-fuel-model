@@ -5,7 +5,6 @@ Predictive model of fuel consumption for Airbus A320, based on A320-214 CFM56 va
 Note: This data contianed on this page must not be used for real world navigation and is only intended for flight simulation purposes.
 
 Assumptions of the model:
-- 400 lbs of fuel required for minimum operations
 - climb profile 250kt/300kt/0.78
 - cruise profile 0.78
 - descent profile 0.78/300kt/250kt
