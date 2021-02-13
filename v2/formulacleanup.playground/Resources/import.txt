@@ -1,0 +1,29 @@
+-1.656e+00
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)1.0
+                                                   7.375e-02
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)2.0
+                                                  -3.196e-04
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)3.0
+                                                   1.553e-07
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)4.0
+                                                   1.050e-09
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)0.1
+                                                   5.111e-03
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)1.1
+                                                  -8.082e-05
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)2.1
+                                                   2.831e-06
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)3.1
+                                                  -6.160e-09
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)0.2
+                                                   1.149e-10
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)1.2
+                                                   4.051e-14
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)2.2
+                                                  -1.102e-17
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)0.3
+                                                  -6.286e-13
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)1.3
+                                                  -9.381e-17
+polym(fuel$FL, fuel$WEIGHT..LBS., degree = 4, raw = TRUE)0.4
+                                                   1.279e-15
